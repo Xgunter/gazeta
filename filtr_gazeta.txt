@@ -23,7 +23,7 @@ www.gazeta.pl##.c-box--highest-left.grid--4-4-1.c-section--sport-moto
 www.gazeta.pl###alternativeNewsSource
 www.gazeta.pl###LinkArea\:BoxBizImg2 > .c-article
 www.gazeta.pl###\30 03-RECTANGLE_1_1
-wwww.gazeta.pl##.o-weather__temperatures
+www.gazeta.pl##.o-weather__temperatures
 www.gazeta.pl##.o-weather__description
 www.gazeta.pl###weather-wrapper
 www.gazeta.pl##.c-box.grid--4-1.c-section--special
