@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! 08.05.2019, http://www.gazeta.pl/0,0.html
-! Version: 20190508_1
+! Version: 20190508_2
 ! Title: Gazeta.pl: Remove
 ! ==========
 
@@ -68,6 +68,7 @@ www.gazeta.pl##.c-box.grid--4-1.c-section--special
 ##[href*="myfitness.gazeta.pl"]
 gazeta.pl##[href*="onnetwork.tv"]
 gazeta.pl##.player_now_box
+www.gazeta.pl##.blue_version.c-box.c-section--game-day
 
 gazeta.pl##.o-article__image::before
 gazeta.pl##.o-article__image:style(background-image:none !important)
