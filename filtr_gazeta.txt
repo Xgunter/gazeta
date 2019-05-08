@@ -1,0 +1,122 @@
+[Adblock Plus 2.0]
+! 08.05.2019, http://www.gazeta.pl/0,0.html
+! Version: 20190508_1
+! Title: Gazeta.pl: Remove
+! ==========
+
+www.gazeta.pl##.is-video-now.c-video
+www.gazeta.pl##.c-box.grid--4-1.c-section--opening_c2c
+www.gazeta.pl##.c-box--top.grid--4-4-1.c-section--gossip
+www.gazeta.pl##.c-box.c-section--offers
+www.gazeta.pl##.c-box--highest-left.grid--4-2.c-section--sport-moto
+www.gazeta.pl##.c-box--highest-left.grid--4-3.c-section--entertainment
+www.gazeta.pl##.c-box.grid--4-1.c-section--culture
+www.gazeta.pl##.c-box.c-section--publio-gallery
+www.gazeta.pl##.c-box.grid--4-1.c-section--lifestyle
+www.gazeta.pl##section.grid--2-2.c-section--lifestyle:nth-of-type(1)
+www.gazeta.pl##section.grid--2-2.c-section--lifestyle:nth-of-type(2)
+www.gazeta.pl##.c-box--highest-left.grid--4-4-1.c-section--lifestyle
+www.gazeta.pl##.c-box.grid--4-3.c-section--dontmissit
+www.gazeta.pl##.c-section--footer
+www.gazeta.pl##.c-box.c-section--on_time
+www.gazeta.pl##.c-box--highest-left.grid--4-4-1.c-section--sport-moto
+www.gazeta.pl###alternativeNewsSource
+www.gazeta.pl###LinkArea\:BoxBizImg2 > .c-article
+www.gazeta.pl###\30 03-RECTANGLE_1_1
+wwww.gazeta.pl##.o-weather__temperatures
+www.gazeta.pl##.o-weather__description
+www.gazeta.pl###weather-wrapper
+www.gazeta.pl##.c-box.grid--4-1.c-section--special
+||www.googletagservices.com/*
+||googletagservices.com/tag/js/gpt.js
+||http://api.gazeta.pl/weather/*
+||http://www.googletagmanager.com/*
+||https://bis.gazeta.pl/info/bluewhale/*
+||bis.gazeta.pl/info/bluewhale/*
+||http://rodo.agora.pl/agreement/*
+||rodo.agora.pl/agreement/*
+||http://www.gazeta.pl/aliasy/*
+||https://bi.adview.pl/*
+||bi.adview.pl/*
+||http://www.googletagservices.com/tag/js/gpt.js
+||http://api.gazeta.pl/weather/*
+||api.gazeta.pl/weather/*
+||http://myfitness.pl/*
+||abs.twimg.com
+##.has-wide-list.c-box--highest-left.grid--4-2.c-section--news
+##.o-hotnews__inner
+##.c-box.c-section--extra-services
+! ##.is-saturday.c-main-weekend
+##[href*="plotek.pl"]
+! ##.two_article.o-game-day__big-articles
+##[href*="myfitness.pl"]
+##[href*="edziecko.pl"]
+##[href*="popierwszenatura.gazeta.pl"]
+##.o-hotnews
+##[href*="avanti24.pl"]
+##[href*="moto.pl"]
+##[href*="otworzsienaswiat.gazeta.pl"]
+##[href*="quiz"]
+##[href*="sport.pl/pilka"]
+##[href*="haps.gazeta.pl"]
+##[href*="kobieta.gazeta.pl"]
+##[href*="promocje"]
+##[href*="najtanszej-cena"]
+||onnetwork.tv/*
+##[href*="underdog.sport.pl"]
+##[href*="ugotuj.to"]
+##[href*="myfitness.gazeta.pl"]
+gazeta.pl##[href*="onnetwork.tv"]
+gazeta.pl##.player_now_box
+
+gazeta.pl##.o-article__image::before
+gazeta.pl##.o-article__image:style(background-image:none !important)
+
+! stare
+www.gazeta.pl###video_player_embed2
+www.gazeta.pl##.box_lifestyle
+
+www.gazeta.pl##.box_videonews
+www.gazeta.pl##.box_games
+www.gazeta.pl##.box_local
+www.gazeta.pl##.box_forum
+www.gazeta.pl##.box_bargains
+www.gazeta.pl##.box_video
+www.gazeta.pl##.box__local_ecom
+www.gazeta.pl##.box_lifestyle
+www.gazeta.pl##.box_fashion
+www.gazeta.pl##.box_home
+www.gazeta.pl##.box_lifestyle_ecom
+www.gazeta.pl##.box_people
+www.gazeta.pl##.box_moto
+www.gazeta.pl##.box_moto_ecom
+www.gazeta.pl##.box_dessert
+www.gazeta.pl##.section_dontmiss
+www.gazeta.pl##.news_box_foreheads
+www.gazeta.pl##.box_kinoplez
+www.gazeta.pl##.box_recreation
+www.gazeta.pl##.box_publio
+www.gazeta.pl##.section_offers
+!www.gazeta.pl##.box_business
+www.gazeta.pl##.box_cutter
+www.gazeta.pl##.box__radom_ecom
+www.gazeta.pl##.mod_weekend
+www.gazeta.pl##.box_culture
+www.gazeta.pl##.box__lublin_ecom
+www.gazeta.pl##.box_video_lifestyle_wrapper
+www.gazeta.pl##.box_mammoth
+www.gazeta.pl##.mod_photo_type_box
+www.gazeta.pl##.box_videonews
+www.gazeta.pl##.box_travel
+www.gazeta.pl##.box_people2_lifestyle_avavti
+www.gazeta.pl##.box_dontmissit
+www.gazeta.pl##.box_sport
+www.gazeta.pl##.box_weekend_health
+www.gazeta.pl##.special_box
+www.gazeta.pl##.phptps_loaded.opacity.page-selection
+www.gazeta.pl##.footer_upper_links
+www.gazeta.pl##.photos_loaded.opacity.page-section
+www.gazeta.pl###Weekend
+www.gazeta.pl##section[class^="special_event"]
+www.gazeta.pl##div[class^="row mod_photo_box mod_section off"]
+www.gazeta.pl##.box_plotek
