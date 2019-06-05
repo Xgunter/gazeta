@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 08.05.2019, http://www.gazeta.pl/0,0.html
-! Version: 20190508_3
+! 05.06.2019, http://www.gazeta.pl/0,0.html
+! Version: 20190605_0
 ! Title: Gazeta.pl: Remove
 ! ==========
 
