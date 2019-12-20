@@ -2,6 +2,7 @@
 ! 05.06.2019, http://www.gazeta.pl/0,0.html
 ! Version: 20190605_0
 ! Title: Gazeta.pl: Remove
+! License: GPL-3
 ! ==========
 
 www.gazeta.pl##.is-video-now.c-video
@@ -74,6 +75,7 @@ gazeta.pl##.player-now-box
 gazeta.pl##.c-box.c-section--dip > .o-section--header
 gazeta.pl##.o-dip-suggestions
 gazeta.pl##.c-dip-right-side
+gazeta.pl##.c-box.c-section--dip
 
 gazeta.pl##.o-article__image::before
 gazeta.pl##.o-article__image:style(background-image:none !important)
