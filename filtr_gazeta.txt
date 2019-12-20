@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! 05.06.2019, http://www.gazeta.pl/0,0.html
+! 20.12.2019, http://www.gazeta.pl/0,0.html
 ! Version: 20191220_0
 ! Title: Gazeta.pl: Remove
 ! License: GNU GPL v3.0 
