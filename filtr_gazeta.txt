@@ -2,7 +2,7 @@
 ! 05.06.2019, http://www.gazeta.pl/0,0.html
 ! Version: 20190605_0
 ! Title: Gazeta.pl: Remove
-! License: GPL-3
+! License: GNU GPL v3.0 
 ! ==========
 
 www.gazeta.pl##.is-video-now.c-video
