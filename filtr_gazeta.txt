@@ -128,3 +128,4 @@ www.gazeta.pl###Weekend
 www.gazeta.pl##section[class^="special_event"]
 www.gazeta.pl##div[class^="row mod_photo_box mod_section off"]
 www.gazeta.pl##.box_plotek
+www.gazeta.pl##.c-section--offers
