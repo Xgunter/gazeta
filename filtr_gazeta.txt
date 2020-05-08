@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 27.04.2020, http://www.gazeta.pl/0,0.html
-! Version: 20200427_1
+! 08.05.2020, http://www.gazeta.pl/0,0.html
+! Version: 20200508_0
 ! Title: Gazeta.pl: Remove
 ! License: GNU GPL v3.0 
 ! ==========
@@ -132,3 +132,4 @@ www.gazeta.pl##.c-section--offers
 ! Za dużo MMA, a za mało sportu.
 www.gazeta.pl##[href*="sport.pl"]
 www.gazeta.pl##[href*="wysokieobcasy.pl"]
+www.gazeta.pl##.offers__wrapper
