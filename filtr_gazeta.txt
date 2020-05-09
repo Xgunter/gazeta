@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! 09.05.2020, http://www.gazeta.pl/0,0.html
-! Version: 20200509_1
+! Version: 20200509_2
 ! Title: Gazeta.pl: Remove
-! License: GNU GPL v3.0 
+! License: GNU GPL v3.0 moz-extension://334d092f-0b1b-4e4f-9655-cb0ffc461b0e/dashboard.html#1p-filters.html
 ! ==========
 
 www.gazeta.pl##.is-video-now.c-video
@@ -53,7 +53,7 @@ www.gazeta.pl##.c-box.grid--4-1.c-section--special
 ##[href*="myfitness.pl"]
 ##[href*="edziecko.pl"]
 ##[href*="popierwszenatura.gazeta.pl"]
-##.o-hotnews
+##.o-hotnewsmoz-extension://334d092f-0b1b-4e4f-9655-cb0ffc461b0e/dashboard.html#1p-filters.html
 ##[href*="avanti24.pl"]
 ##[href*="moto.pl"]
 ##[href*="otworzsienaswiat.gazeta.pl"]
@@ -133,5 +133,5 @@ www.gazeta.pl##.c-section--offers
 www.gazeta.pl##[href*="sport.pl"]
 www.gazeta.pl##[href*="wysokieobcasy.pl"]
 www.gazeta.pl##.offers__wrapper
-www.gazeta.pl##.is-scrolled
+! www.gazeta.pl##.is-scrolled
 ! www.gazeta.pl##.city-box
