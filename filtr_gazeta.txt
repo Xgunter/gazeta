@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 16.05.2020, http://www.gazeta.pl/0,0.html
-! Version: 20200516_0
+! 20.08.2020, http://www.gazeta.pl/0,0.html
+! Version: 20200820_0
 ! Title: Gazeta.pl: Remove
 ! License: GNU GPL v3.0 moz-extension://334d092f-0b1b-4e4f-9655-cb0ffc461b0e/dashboard.html#1p-filters.html
 ! ==========
@@ -136,3 +136,4 @@ www.gazeta.pl##.offers__wrapper
 ! www.gazeta.pl##.is-scrolled
 ! www.gazeta.pl##.city-box
 www.gazeta.pl##.newspapers
+www.gazeta.pl##.white_version.c-box.c-section--game-day
