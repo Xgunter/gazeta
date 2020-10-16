@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! 16.10.2020, http://www.gazeta.pl/0,0.html
-! Version: 20201016_0
+! Version: 20201016_1
 ! Title: Gazeta.pl: Remove
 ! License: GNU GPL v3.0
 ! ==========
@@ -76,8 +76,8 @@ gazeta.pl##.c-box.c-section--dip > .o-section--header
 gazeta.pl##.o-dip-suggestions
 gazeta.pl##.c-dip-right-side
 gazeta.pl##.c-box.c-section--dip
-!gazeta.pl##.big_video.reset_section.c-box--highest-left.grid--4-5.c-section--opening
-!gazeta.pl##.reset_section.c-box--highest-left.grid--4-5.c-section--opening
+! gazeta.pl##.big_video.reset_section.c-box--highest-left.grid--4-5.c-section--opening
+! gazeta.pl##.reset_section.c-box--highest-left.grid--4-5.c-section--opening
 gazeta.pl##.additionalArea
 
 gazeta.pl##.o-article__image::before
