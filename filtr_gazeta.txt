@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 19.11.2020, http://www.gazeta.pl/0,0.html
-! Version: 20201119_0
+! 26.11.2020, http://www.gazeta.pl/0,0.html
+! Version: 20201126_0
 ! Title: Gazeta.pl: Remove
 ! License: GNU GPL v3.0
 ! ==========
@@ -86,6 +86,22 @@ gazeta.pl##.o-article__image:style(background-image:none !important)
 gazeta.pl##.article__image::before
 gazeta.pl##.article__image:style(background-image:none !important)
 
+! Za dużo MMA, a za mało sportu.
+www.gazeta.pl##[href*="sport.pl"]
+www.gazeta.pl##[href*="wysokieobcasy.pl"]
+www.gazeta.pl##.offers__wrapper
+! www.gazeta.pl##.is-scrolled
+! www.gazeta.pl##.city-box
+www.gazeta.pl##.newspapers
+www.gazeta.pl##.white_version.c-box.c-section--game-day
+
+! Player
+www.gazeta.pl##.video-player__ONN.bigPlayer
+www.gazeta.pl##.player--now.player
+! www.gazeta.pl##.sectionTiles__box
+! www.gazeta.pl##.sectionTiles--bigPlayer.sectionTiles--opening.sectionTiles
+www.gazeta.pl##.player--big.player
+www.gazeta.pl##[href*="wysokieobcasy.pl"]
 
 ! stare
 www.gazeta.pl###video_player_embed2
@@ -136,16 +152,3 @@ www.gazeta.pl##section[class^="special_event"]
 www.gazeta.pl##div[class^="row mod_photo_box mod_section off"]
 www.gazeta.pl##.box_plotek
 www.gazeta.pl##.c-section--offers
-! Za dużo MMA, a za mało sportu.
-www.gazeta.pl##[href*="sport.pl"]
-www.gazeta.pl##[href*="wysokieobcasy.pl"]
-www.gazeta.pl##.offers__wrapper
-! www.gazeta.pl##.is-scrolled
-! www.gazeta.pl##.city-box
-www.gazeta.pl##.newspapers
-www.gazeta.pl##.white_version.c-box.c-section--game-day
-! Player
-www.gazeta.pl##.video-player__ONN.bigPlayer
-www.gazeta.pl##.player--now.player
-! www.gazeta.pl##.sectionTiles__box
-www.gazeta.pl##.sectionTiles--bigPlayer.sectionTiles--opening.sectionTiles
