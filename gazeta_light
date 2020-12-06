@@ -1,0 +1,49 @@
+[Adblock Plus 2.0]
+! 06.12.2020, http://www.gazeta.pl/0,0.html
+! Version: 20201206_0
+! Title: Gazeta.pl: Remove_light
+! License: GNU GPL v3.0
+! ==========
+
+gazeta.pl##.is-video-now.c-video
+||www.googletagservices.com/*
+||googletagservices.com/tag/js/gpt.js
+||http://api.gazeta.pl/weather/*
+||http://www.googletagmanager.com/*
+||https://bis.gazeta.pl/info/bluewhale/*
+||bis.gazeta.pl/info/bluewhale/*
+||http://rodo.agora.pl/agreement/*
+||rodo.agora.pl/agreement/*
+||http://www.gazeta.pl/aliasy/*
+||https://bi.adview.pl/*
+||bi.adview.pl/*
+||http://www.googletagservices.com/tag/js/gpt.js
+||http://api.gazeta.pl/weather/*
+||api.gazeta.pl/weather/*
+||http://myfitness.pl/*
+||abs.twimg.com
+gazeta.pl##.has-wide-list.c-box--highest-left.grid--4-2.c-section--news
+
+www.gazeta.pl##.blue_version.c-box.c-section--game-day
+gazeta.pl##.big-player__box
+gazeta.pl##.player-now-box
+gazeta.pl##.c-box.c-section--dip > .o-section--header
+gazeta.pl##.o-dip-suggestions
+gazeta.pl##.c-dip-right-side
+gazeta.pl##.c-box.c-section--dip
+! gazeta.pl##.big_video.reset_section.c-box--highest-left.grid--4-5.c-section--opening
+! gazeta.pl##.reset_section.c-box--highest-left.grid--4-5.c-section--opening
+gazeta.pl##.additionalArea
+gazeta.pl##.additional--opening--area
+
+gazeta.pl##.o-article__image::before
+gazeta.pl##.o-article__image:style(background-image:none !important)
+gazeta.pl##.article__image::before
+gazeta.pl##.article__image:style(background-image:none !important)
+
+! Player
+www.gazeta.pl##.video-player__ONN.bigPlayer
+www.gazeta.pl##.player--now.player
+! www.gazeta.pl##.sectionTiles__box
+! www.gazeta.pl##.sectionTiles--bigPlayer.sectionTiles--opening.sectionTiles
+www.gazeta.pl##.player--big.player
