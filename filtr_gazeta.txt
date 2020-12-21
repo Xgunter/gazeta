@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 21.12.2020, http://www.gazeta.pl/0,0.html
-! Version: 20201221_0
+! 22.12.2020, http://www.gazeta.pl/0,0.html
+! Version: 20201222_0
 ! Title: Gazeta.pl: Remove
 ! License: GNU GPL v3.0
 ! ==========
@@ -106,7 +106,8 @@ www.gazeta.pl##[href*="wysokieobcasy.pl"]
 
 www.gazeta.pl##.onTimeBrandZone
 www.gazeta.pl##.sectionTiles.sectionTiles--sport
-www.gazeta.pl##[href*="https://zdrowie.gazeta.pl/Zdrowie"]
+! www.gazeta.pl##[href*="https://zdrowie.gazeta.pl/Zdrowie"]
+www.gazeta.pl##div[class="c-article"]:-abp-contains(PROMOCYJNY)
 
 ! stare
 www.gazeta.pl###video_player_embed2
