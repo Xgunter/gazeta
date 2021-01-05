@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! 05.01.2021, http://www.gazeta.pl/0,0.html
+! 06.01.2021, http://www.gazeta.pl/0,0.html
 ! Version: 20210105_0
 ! Title: Gazeta.pl: Remove_light
 ! License: GNU GPL v3.0
@@ -42,7 +42,6 @@ gazeta.pl##.article__image::before
 gazeta.pl##.article__image:style(background-image:none !important)
 gazeta.pl##.dip:-abp-contains(PROMOCYJNE)
 gazeta.pl##.onTimeBrandZone
-gazeta.pl##.sectionTiles.sectionTiles--sport
 ! gazeta.pl##[href*="https://zdrowie.gazeta.pl/Zdrowie"]
 gazeta.pl##a:-abp-has(div[class="article__image"]):-abp-contains(PROMOCYJNY)
 gazeta.pl##a:-abp-has(div[class="c-article"]):-abp-contains(PROMOCYJNY)
