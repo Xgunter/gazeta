@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 05.01.2021, http://www.gazeta.pl/0,0.html
-! Version: 20210105_0
+! 08.01.2021, http://www.gazeta.pl/0,0.html
+! Version: 20210108_0
 ! Title: Gazeta.pl: Remove
 ! License: GNU GPL v3.0
 ! ==========
@@ -110,6 +110,7 @@ www.gazeta.pl##.sectionTiles.sectionTiles--sport
 www.gazeta.pl##a:-abp-has(div[class="article__image"]):-abp-contains(PROMOCYJNY)
 www.gazeta.pl##a:-abp-has(div[class="c-article"]):-abp-contains(PROMOCYJNY)
 www.gazeta.pl##.dip:-abp-contains(PROMOCYJNE)
+www.gazeta.pl##.sectionTiles.sectionTiles--lifestyle
 
 ! stare
 www.gazeta.pl###video_player_embed2
