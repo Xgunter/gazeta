@@ -1,0 +1,113 @@
+[Adblock Plus 2.0]
+! 01.02.2021, http://www.gazeta.pl/0,0.html
+! Version: 20210201_0
+! Title: Gazeta.pl_Sport
+! License: GNU GPL v3.0
+! ==========
+
+www.gazeta.pl##.is-video-now.c-video
+www.gazeta.pl##.c-box.grid--4-1.c-section--opening_c2c
+www.gazeta.pl##.c-box--top.grid--4-4-1.c-section--gossip
+www.gazeta.pl##.c-box.c-section--offers
+www.gazeta.pl##.c-box--highest-left.grid--4-2.c-section--sport-moto
+www.gazeta.pl##.c-box--highest-left.grid--4-3.c-section--entertainment
+www.gazeta.pl##.c-box.grid--4-1.c-section--culture
+www.gazeta.pl##.c-box.c-section--publio-gallery
+www.gazeta.pl##.c-box.grid--4-1.c-section--lifestyle
+www.gazeta.pl##section.grid--2-2.c-section--lifestyle:nth-of-type(1)
+www.gazeta.pl##section.grid--2-2.c-section--lifestyle:nth-of-type(2)
+www.gazeta.pl##.c-box--highest-left.grid--4-4-1.c-section--lifestyle
+www.gazeta.pl##.c-box.grid--4-3.c-section--dontmissit
+www.gazeta.pl##.c-section--footer
+www.gazeta.pl##.c-box.c-section--on_time
+www.gazeta.pl##.c-box--highest-left.grid--4-4-1.c-section--sport-moto
+www.gazeta.pl###alternativeNewsSource
+!www.gazeta.pl###LinkArea\:BoxBizImg2 > .c-article
+www.gazeta.pl###\30 03-RECTANGLE_1_1
+www.gazeta.pl##.o-weather__temperatures
+www.gazeta.pl##.o-weather__description
+www.gazeta.pl###weather-wrapper
+www.gazeta.pl##.c-box.grid--4-1.c-section--special
+||www.googletagservices.com/*
+||googletagservices.com/tag/js/gpt.js
+||http://api.gazeta.pl/weather/*
+||http://www.googletagmanager.com/*
+||https://bis.gazeta.pl/info/bluewhale/*
+||bis.gazeta.pl/info/bluewhale/*
+||http://rodo.agora.pl/agreement/*
+||rodo.agora.pl/agreement/*
+||http://www.gazeta.pl/aliasy/*
+||https://bi.adview.pl/*
+||bi.adview.pl/*
+||http://www.googletagservices.com/tag/js/gpt.js
+||http://api.gazeta.pl/weather/*
+||api.gazeta.pl/weather/*
+||http://myfitness.pl/*
+||abs.twimg.com
+##.has-wide-list.c-box--highest-left.grid--4-2.c-section--news
+##.o-hotnews__inner
+##.c-box.c-section--extra-services
+! ##.is-saturday.c-main-weekend
+##[href*="plotek.pl"]
+! ##.two_article.o-game-day__big-articles
+##[href*="myfitness.pl"]
+##[href*="edziecko.pl"]
+##[href*="popierwszenatura.gazeta.pl"]
+##.o-hotnews
+##[href*="avanti24.pl"]
+##[href*="moto.pl"]
+##[href*="otworzsienaswiat.gazeta.pl"]
+##[href*="quiz"]
+##[href*="sport.pl/pilka"]
+##[href*="haps.gazeta.pl"]
+##[href*="kobieta.gazeta.pl"]
+##[href*="promocje"]
+##[href*="najtanszej-cena"]
+||onnetwork.tv/*
+##[href*="underdog.sport.pl"]
+##[href*="ugotuj.to"]
+##[href*="myfitness.gazeta.pl"]
+gazeta.pl##[href*="onnetwork.tv"]
+gazeta.pl##.player_now_box
+www.gazeta.pl##.blue_version.c-box.c-section--game-day
+gazeta.pl##.big-player__box
+gazeta.pl##.player-now-box
+gazeta.pl##.c-box.c-section--dip > .o-section--header
+gazeta.pl##.o-dip-suggestions
+gazeta.pl##.c-dip-right-side
+gazeta.pl##.c-box.c-section--dip
+! gazeta.pl##.big_video.reset_section.c-box--highest-left.grid--4-5.c-section--opening
+! gazeta.pl##.reset_section.c-box--highest-left.grid--4-5.c-section--opening
+gazeta.pl##.additionalArea
+gazeta.pl##.additional--opening--area
+
+gazeta.pl##.o-article__image::before
+gazeta.pl##.o-article__image:style(background-image:none !important)
+gazeta.pl##.article__image::before
+gazeta.pl##.article__image:style(background-image:none !important)
+
+! Za dużo MMA, a za mało sportu.
+! www.gazeta.pl##[href*="sport.pl"]
+www.gazeta.pl##[href*="wysokieobcasy.pl"]
+www.gazeta.pl##.offers__wrapper
+! www.gazeta.pl##.is-scrolled
+! www.gazeta.pl##.city-box
+www.gazeta.pl##.newspapers
+www.gazeta.pl##.white_version.c-box.c-section--game-day
+www.gazeta.pl##.sectionTiles.sectionTiles--gossip
+
+! Player
+www.gazeta.pl##.video-player__ONN.bigPlayer
+www.gazeta.pl##.player--now.player
+! www.gazeta.pl##.sectionTiles__box
+! www.gazeta.pl##.sectionTiles--bigPlayer.sectionTiles--opening.sectionTiles
+www.gazeta.pl##.player--big.player
+www.gazeta.pl##[href*="wysokieobcasy.pl"]
+
+www.gazeta.pl##.onTimeBrandZone
+www.gazeta.pl##.sectionTiles.sectionTiles--sport
+! www.gazeta.pl##[href*="https://zdrowie.gazeta.pl/Zdrowie"]
+www.gazeta.pl##a:-abp-has(div[class="article__image"]):-abp-contains(PROMOCYJNY)
+www.gazeta.pl##a:-abp-has(div[class="c-article"]):-abp-contains(PROMOCYJNY)
+www.gazeta.pl##.dip:-abp-contains(PROMOCYJNE)
+www.gazeta.pl##.sectionTiles.sectionTiles--lifestyle
