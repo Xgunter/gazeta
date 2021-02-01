@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! 01.02.2021, http://www.gazeta.pl/0,0.html
-! Version: 20210201_3
+! Version: 20210201_4
 ! Title: Gazeta.pl_Sport
 ! License: GNU GPL v3.0
 ! ==========
@@ -20,7 +20,7 @@ www.gazeta.pl##.c-box--highest-left.grid--4-4-1.c-section--lifestyle
 www.gazeta.pl##.c-box.grid--4-3.c-section--dontmissit
 www.gazeta.pl##.c-section--footer
 www.gazeta.pl##.c-box.c-section--on_time
-www.gazeta.pl##.c-box--highest-left.grid--4-4-1.c-section--sport-moto
+! www.gazeta.pl##.c-box--highest-left.grid--4-4-1.c-section--sport-moto
 www.gazeta.pl###alternativeNewsSource
 !www.gazeta.pl###LinkArea\:BoxBizImg2 > .c-article
 www.gazeta.pl###\30 03-RECTANGLE_1_1
