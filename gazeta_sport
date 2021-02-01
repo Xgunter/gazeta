@@ -9,7 +9,7 @@ www.gazeta.pl##.is-video-now.c-video
 www.gazeta.pl##.c-box.grid--4-1.c-section--opening_c2c
 www.gazeta.pl##.c-box--top.grid--4-4-1.c-section--gossip
 www.gazeta.pl##.c-box.c-section--offers
-www.gazeta.pl##.c-box--highest-left.grid--4-2.c-section--sport-moto
+! www.gazeta.pl##.c-box--highest-left.grid--4-2.c-section--sport-moto
 www.gazeta.pl##.c-box--highest-left.grid--4-3.c-section--entertainment
 www.gazeta.pl##.c-box.grid--4-1.c-section--culture
 www.gazeta.pl##.c-box.c-section--publio-gallery
@@ -20,7 +20,7 @@ www.gazeta.pl##.c-box--highest-left.grid--4-4-1.c-section--lifestyle
 www.gazeta.pl##.c-box.grid--4-3.c-section--dontmissit
 www.gazeta.pl##.c-section--footer
 www.gazeta.pl##.c-box.c-section--on_time
-www.gazeta.pl##.c-box--highest-left.grid--4-4-1.c-section--sport-moto
+! www.gazeta.pl##.c-box--highest-left.grid--4-4-1.c-section--sport-moto
 www.gazeta.pl###alternativeNewsSource
 !www.gazeta.pl###LinkArea\:BoxBizImg2 > .c-article
 www.gazeta.pl###\30 03-RECTANGLE_1_1
