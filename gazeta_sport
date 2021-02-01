@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! 01.02.2021, http://www.gazeta.pl/0,0.html
-! Version: 20210201_1
+! Version: 20210201_2
 ! Title: Gazeta.pl_Sport
 ! License: GNU GPL v3.0
 ! ==========
@@ -9,7 +9,7 @@ www.gazeta.pl##.is-video-now.c-video
 www.gazeta.pl##.c-box.grid--4-1.c-section--opening_c2c
 www.gazeta.pl##.c-box--top.grid--4-4-1.c-section--gossip
 www.gazeta.pl##.c-box.c-section--offers
-! www.gazeta.pl##.c-box--highest-left.grid--4-2.c-section--sport-moto
+www.gazeta.pl##.c-box--highest-left.grid--4-2.c-section--sport-moto
 www.gazeta.pl##.c-box--highest-left.grid--4-3.c-section--entertainment
 www.gazeta.pl##.c-box.grid--4-1.c-section--culture
 www.gazeta.pl##.c-box.c-section--publio-gallery
@@ -20,7 +20,7 @@ www.gazeta.pl##.c-box--highest-left.grid--4-4-1.c-section--lifestyle
 www.gazeta.pl##.c-box.grid--4-3.c-section--dontmissit
 www.gazeta.pl##.c-section--footer
 www.gazeta.pl##.c-box.c-section--on_time
-! www.gazeta.pl##.c-box--highest-left.grid--4-4-1.c-section--sport-moto
+www.gazeta.pl##.c-box--highest-left.grid--4-4-1.c-section--sport-moto
 www.gazeta.pl###alternativeNewsSource
 !www.gazeta.pl###LinkArea\:BoxBizImg2 > .c-article
 www.gazeta.pl###\30 03-RECTANGLE_1_1
@@ -58,13 +58,13 @@ www.gazeta.pl##.c-box.grid--4-1.c-section--special
 ##[href*="moto.pl"]
 ##[href*="otworzsienaswiat.gazeta.pl"]
 ##[href*="quiz"]
-##[href*="sport.pl/pilka"]
+! ##[href*="sport.pl/pilka"]
 ##[href*="haps.gazeta.pl"]
 ##[href*="kobieta.gazeta.pl"]
 ##[href*="promocje"]
 ##[href*="najtanszej-cena"]
 ||onnetwork.tv/*
-##[href*="underdog.sport.pl"]
+! ##[href*="underdog.sport.pl"]
 ##[href*="ugotuj.to"]
 ##[href*="myfitness.gazeta.pl"]
 gazeta.pl##[href*="onnetwork.tv"]
