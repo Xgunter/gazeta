@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 20.04.2021, http://www.gazeta.pl/0,0.html
-! Version: 20210420_1
+! 21.04.2021, http://www.gazeta.pl/0,0.html
+! Version: 20210421_1
 ! Title: Gazeta.pl: Remove_light
 ! License: GNU GPL v3.0
 ! ==========
@@ -23,7 +23,7 @@ gazeta.pl##.is-video-now.c-video
 ||http://myfitness.pl/*
 ||abs.twimg.com
 gazeta.pl##.has-wide-list.c-box--highest-left.grid--4-2.c-section--news
-gazeta.pl||bestdeals.moto.pl/widget-hp
+||bestdeals.moto.pl/widget-hp
 
 www.gazeta.pl##.blue_version.c-box.c-section--game-day
 gazeta.pl##.big-player__box
