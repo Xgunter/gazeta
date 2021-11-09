@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 08.09.2021, http://www.gazeta.pl/0,0.html
-! Version: 20210908_0
+! 10.11.2021, http://www.gazeta.pl/0,0.html
+! Version: 20211110_0
 ! Title: Gazeta.pl: Remove
 ! License: GNU GPL v3.0
 ! ==========
@@ -87,6 +87,7 @@ gazeta.pl##.additional--opening--area
 ##div.salesModule:nth-of-type(13)
 ##.sectionTiles--greenNewspaper.sectionTiles
 ##.DFPbannerPartnerWrapper
+##div.salesModule:nth-of-type(5)
 
 gazeta.pl##.o-article__image::before
 gazeta.pl##.o-article__image:style(background-image:none !important)
