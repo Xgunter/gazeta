@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! 15.12.2021, http://www.gazeta.pl/0,0.html
-! Version: 20211215_0
+! Version: 20211215_1
 ! Title: Gazeta.pl: Remove_light
 ! License: GNU GPL v3.0
 ! ==========
@@ -29,6 +29,7 @@ gazeta.pl##.has-wide-list.c-box--highest-left.grid--4-2.c-section--news
 ##.DFPbannerPartnerWrapper
 ##div.salesModule:nth-of-type(5)
 ||c2c24.pl/widget-hp
+##div:nth-of-type(13)
 
 www.gazeta.pl##.blue_version.c-box.c-section--game-day
 gazeta.pl##.big-player__box
