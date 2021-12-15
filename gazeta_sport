@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! 15.12.2021, http://www.gazeta.pl/0,0.html
-! Version: 20211215_1
+! Version: 20211215_2
 ! Title: Gazeta.pl_Sport
 ! License: GNU GPL v3.0
 ! ==========
@@ -90,6 +90,7 @@ gazeta.pl##.additional--opening--area
 ##.black_version.c-box.c-section--game-day
 ||c2c24.pl/widget-hp
 ##div:nth-of-type(13)
+##div:nth-of-type(14)
 
 gazeta.pl##.o-article__image::before
 gazeta.pl##.o-article__image:style(background-image:none !important)
