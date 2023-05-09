@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! 01.04.2022, http://www.gazeta.pl/0,0.html
-! Version: 20220401_0
+! 09.05.2023, http://www.gazeta.pl/0,0.html
+! Version: 20230509_0
 ! Title: Gazeta.pl_Sport
 ! License: GNU GPL v3.0
 ! ==========
@@ -99,6 +99,12 @@ gazeta.pl##.o-article__image::before
 gazeta.pl##.o-article__image:style(background-image:none !important)
 gazeta.pl##.article__image::before
 gazeta.pl##.article__image:style(background-image:none !important)
+www.gazeta.pl##.c-box--highest-left.grid--4-2.c-section--dessert
+www.gazeta.pl##.c2cSection > .businessType__label--sticky
+www.gazeta.pl##.lifestyle__wrapper--single.lifestyle__wrapper > .businessType__label--sticky
+www.gazeta.pl##div.lifestyle__wrapper--double.lifestyle__wrapper > .businessType__label--sticky
+www.gazeta.pl##.lifestyle__wrapper--single.lifestyle__wrapper
+www.gazeta.pl##div.salesModule__wrapper:nth-of-type(8)
 
 ! Za dużo MMA, a za mało sportu.
 ! www.gazeta.pl##[href*="sport.pl"]
